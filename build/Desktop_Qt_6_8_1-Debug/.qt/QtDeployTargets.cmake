@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_USBpuckcamera_FILE /home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/USBpuckcamera)
+set(__QT_DEPLOY_TARGET_USBpuckcamera_TYPE EXECUTABLE)

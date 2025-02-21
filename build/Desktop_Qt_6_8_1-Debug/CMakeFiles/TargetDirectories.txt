@@ -1,0 +1,9 @@
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/USBpuckcamera.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/edit_cache.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/list_install_components.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/local.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/strip.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/USBpuckcamera_autogen_timestamp_deps.dir
+/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/USBpuckcamera_autogen.dir

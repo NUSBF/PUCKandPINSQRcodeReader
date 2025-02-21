@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9baae37d13376cd409be.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "USBpuckcamera",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "USBpuckcamera::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USBpuckcamera-Debug-d4fb009f8ba656f450b0.json",
+					"name" : "USBpuckcamera",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USBpuckcamera_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USBpuckcamera_autogen-Debug-bb01905a6087e9d4936a.json",
+					"name" : "USBpuckcamera_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "USBpuckcamera_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-USBpuckcamera_autogen_timestamp_deps-Debug-1a5a5d8d7f8d1371d33f.json",
+					"name" : "USBpuckcamera_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/linuxhomes/namlb/USBpuckcamera/build/Desktop_Qt_6_8_1-Debug",
+		"source" : "/home/linuxhomes/namlb/USBpuckcamera"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
