@@ -6,7 +6,7 @@
 #include <QMediaCaptureSession>
 #include <QVideoWidget>
 #include <QMediaDevices>
-#include <zbar.h>
+#include <QElapsedTimer>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -22,9 +22,7 @@ public:
 
 private slots:
     void on_pushButtonCamera1_clicked();
-
     void on_pushButtonCamera2_clicked();
-
     void on_pushButtonTestQRCodDetection_clicked();
 
 private:
@@ -33,9 +31,11 @@ private:
     QCamera *camera2;
     QMediaCaptureSession *captureSession1;
     QMediaCaptureSession *captureSession2;
-    zbar::ImageScanner scanner;
-    void detectQRCodeFromCamera(QCamera *camera);
+    void detectQRCodeFromCamera(QCamera *camera,int targetDMCount);
+    void detectQRCodeFromCameraVideo(QCamera *camera,int targetDMCount);
+    void detectQRCodeFromCameraCircle(QCamera *camera,int targetDMCount);
     void initializeCameras();
+    QElapsedTimer dmDetectionTimer; // Add this line to define the timer
 };
 
 #endif // MAINWINDOW_H
