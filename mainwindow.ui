@@ -31,7 +31,7 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>450</y>
+      <y>390</y>
       <width>80</width>
       <height>25</height>
      </rect>
@@ -45,8 +45,8 @@
      <rect>
       <x>10</x>
       <y>40</y>
-      <width>441</width>
-      <height>401</height>
+      <width>361</width>
+      <height>341</height>
      </rect>
     </property>
    </widget>
@@ -54,16 +54,16 @@
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>490</y>
-      <width>441</width>
-      <height>421</height>
+      <y>420</y>
+      <width>521</width>
+      <height>491</height>
      </rect>
     </property>
    </widget>
    <widget class="QGraphicsView" name="graphicsViewCamera">
     <property name="geometry">
      <rect>
-      <x>470</x>
+      <x>550</x>
       <y>40</y>
       <width>1001</width>
       <height>871</height>
@@ -81,6 +81,166 @@
     </property>
     <property name="text">
      <string>Test QR code detection</string>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_1">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>40</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_2">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>150</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_3">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>260</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_4">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>370</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_5">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>480</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_6">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>590</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_7">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>700</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_8">
+    <property name="geometry">
+     <rect>
+      <x>1560</x>
+      <y>810</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_9">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>40</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_10">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>150</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_11">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>260</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_12">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>370</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_13">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>480</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_14">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>590</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_15">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>700</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QGraphicsView" name="graphicsViewCircle_16">
+    <property name="geometry">
+     <rect>
+      <x>1670</x>
+      <y>810</y>
+      <width>100</width>
+      <height>100</height>
+     </rect>
     </property>
    </widget>
   </widget>
